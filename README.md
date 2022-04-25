@@ -2,17 +2,6 @@
 ## 👋 Hello! Welcome to my Github profile.
 
 
-### Ferramentas e Tecnologias
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40">
-          
-          
-          
-
-
-### Estou aprendendo
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40">
-
-
 <div>
 <a href="https://github.com/dudaccosta">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaccosta&layout=compact&langs_count=7&theme=dracula"/>

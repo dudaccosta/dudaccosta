@@ -16,8 +16,9 @@
 
  <div style="display: inline_block" align="center">
     <h3>Estou aprendendo</h3>
-   [![My Skills](https://skillicons.dev/icons?i=java,figma,&perline=3)](https://skillicons.dev)
-    
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java" />
+  </a>
   </div>
   
 

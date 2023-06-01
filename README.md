@@ -10,9 +10,9 @@
   
   <div style="display: inline_block" align="center"><br>
     <h3>Ferramentas e Tecnologias:</h3>
-  <img align="center" alt="Re-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Re-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github, html, css, js" />
+  </a>
 
  <div style="display: inline_block" align="center">
     <h3>Estou aprendendo</h3>

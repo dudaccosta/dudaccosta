@@ -11,7 +11,7 @@
   <div style="display: inline_block" align="center"><br>
     <h3>Ferramentas e Tecnologias:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github, html, css, js" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,js" />
   </a>
 
  <div style="display: inline_block" align="center">
